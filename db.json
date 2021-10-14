@@ -1,0 +1,81 @@
+{
+  "user": [
+    {
+      "firstName": "Kunal",
+      "lastName": "Manuals",
+      "address1": "Sitamarhi",
+      "address2": "Bihar",
+      "gender": "male",
+      "dob": "2021-10-13",
+      "phoneno": "78900909",
+      "email": "123@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Sumit",
+      "lastName": "Singh",
+      "address1": "Baswariya",
+      "address2": "mills",
+      "gender": "male",
+      "dob": "2021-10-22",
+      "phoneno": "678899000",
+      "email": "123@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "gurue",
+      "lastName": "singhhk",
+      "address1": "newtoen area",
+      "address2": "atfgf",
+      "gender": "female",
+      "dob": "2021-10-15",
+      "phoneno": "34257389",
+      "email": "uiutyyiuytuyy@123gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "Yuvraj",
+      "lastName": "Singh",
+      "address1": "Punjab",
+      "address2": "patiyala",
+      "gender": "male",
+      "dob": "2021-10-16",
+      "phoneno": "1243435456",
+      "email": "123@gmail.com",
+      "id": 5
+    },
+    {
+      "firstName": "rajesh",
+      "lastName": "singh",
+      "address1": "dfgadfad",
+      "address2": "afgfadgadf",
+      "gender": "male",
+      "dob": "2021-10-24",
+      "phoneno": "12434354354365",
+      "email": "123@gmail.com",
+      "id": 9
+    },
+    {
+      "firstName": "hdfkadsjkhfjkhsdjkhadfg",
+      "lastName": "afgadfgafdgadf",
+      "address1": "afgafgafg",
+      "address2": "agfgarfgfd",
+      "gender": "male",
+      "dob": "2021-10-31",
+      "phoneno": "1234243432",
+      "email": "123@gmail.com",
+      "id": 10
+    },
+    {
+      "firstName": "Milkha",
+      "lastName": "Singh",
+      "address1": "Chandigarh",
+      "address2": "Punjab ",
+      "gender": "male",
+      "dob": "2002-09-09",
+      "phoneno": "56786666767676767",
+      "email": "123@gmail.com",
+      "id": 11
+    }
+  ]
+}

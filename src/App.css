@@ -1,0 +1,36 @@
+.link{
+  margin-top: 15px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+
+.img1{
+  width: 50px;
+}
+
+.lines{
+  border: none;
+  height: 1px;
+  /* Set the hr color */
+  color: #333; /* old IE */
+  background-color: #333; /* Modern Browsers */
+}
+.btn5{
+  background-color: #87cefa;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+.header{
+  font-size: 25px;
+}
